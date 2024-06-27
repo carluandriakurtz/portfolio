@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(54, 54, 54);
+    text-align: center;
+}
+header{
+    background-color: black;
+    text-align: center;
+}
+footer{
+    background-color: rgb(40, 40, 40);
+    color: white;
+}
+    footer img{
+        width:50px;
+        height:50px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    footer li{
+        position: right;
+        margin-top: 40px;
+    }
+
+    footer a{
+        color: white;
+        font-size: smaller;
+        text-align: right;
+    }
+.mfe img{
+    width: 500px;
+    height: 700px;
+}
+.van img{
+    width: 700px;
+    height: 750px;
+}
+
+h1{
+    color: #73FF4A;
+    font-size: 50px;
+    font-family: Water Brush, Helvetica, sans-serif;
+    margin-top: 0px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+.retour a{
+    display:block;
+    float:left;   
+    width:364px;
+    height:100px;
+    background-color: black;
+    color:white;
+    text-decoration:none;
+    text-align:center;
+    line-height:50px;
+    padding:5px;
+    border:2px solid;
+    border-color:#DCDCDC #696969 #696969 #DCDCDC;
+    margin-bottom: 50px;
+    margin-left: 750px;
+}
+.retour a:hover {
+    background-color:#D3D3D3;
+    border-color:#696969 #DCDCDC #DCDCDC #696969;
+    } 
+    .retour a{
+        display:block;
+        float:left;   
+        width:364px;
+        height:100px;
+        background-color: black;
+        color:white;
+        text-decoration:none;
+        text-align:center;
+        line-height:50px;
+        padding:5px;
+        border:2px solid;
+        border-color:#DCDCDC #696969 #696969 #DCDCDC;
+        margin-bottom: 50px;
+        margin-left: 750px;
+    }
+    .retour a:hover {
+        background-color:#D3D3D3;
+        border-color:#696969 #DCDCDC #DCDCDC #696969;
+        } 
